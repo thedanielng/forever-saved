@@ -1,1 +1,3 @@
-# forever-saved
+# Forever Saved
+
+A practice project using Bootstrap
